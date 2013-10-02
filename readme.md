@@ -1,9 +1,6 @@
 go_exchange
 ==============
 
-by: nicholas ward
---------------
-
 Command line access to currency exchange rates from the openexchange.org API. Consider this a v0.01 - just playing with Go to see how it deals with JSON. 
 
 Two options for running - 
